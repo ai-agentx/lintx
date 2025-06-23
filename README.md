@@ -7,7 +7,7 @@
 
 ## Introduction
 
-*lintx* is a lint agent.
+*lintx* is an agent for lint.
 
 
 
